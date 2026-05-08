@@ -27,7 +27,6 @@ Haberleşme: Veri aktarımı için I2C ve seri izleme için UART protokolleri ku
 Geliştirme Ortamı: STM32CubeIDE ve HAL kütüphaneleri.
 
  Gelecek Vizyonu
-Bu proje, Otonommatik Teknoloji vizyonunun bir parçası olarak şu özelliklerle genişletilebilir:
 
 IoT Entegrasyonu: Verilerin bulut sistemine aktarılarak global kargo takibi yapılması.
 
